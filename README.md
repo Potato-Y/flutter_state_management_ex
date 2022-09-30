@@ -1,16 +1,4 @@
 # state_ex
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Flutter의 상태 관리에 대한 간단한 예시입니다.
+https://pub.dev/packages/provider/example 의 내용이 포함되어 있습니다. 카운터를 추가하는 내용이며, 다른 페이지에서도 동일한 값을 제어할 수 있습니다.
